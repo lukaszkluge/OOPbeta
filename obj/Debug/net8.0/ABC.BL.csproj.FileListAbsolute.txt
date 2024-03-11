@@ -1,0 +1,11 @@
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\bin\Debug\net8.0\ABC.BL.deps.json
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\bin\Debug\net8.0\ABC.BL.dll
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\bin\Debug\net8.0\ABC.BL.pdb
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.AssemblyInfoInputs.cache
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.AssemblyInfo.cs
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.csproj.CoreCompileInputs.cache
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.dll
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\refint\ABC.BL.dll
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.pdb
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ref\ABC.BL.dll
