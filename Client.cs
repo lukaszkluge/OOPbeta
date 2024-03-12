@@ -13,7 +13,16 @@ namespace ABC.BL
         {
             get
             {
-                return Name + ", " + Surname;
+                string? NameSurname = Name;
+                if (!string.IsNullOrEmpty(Surname))
+                {
+                    if (!string.IsNullOrEmpty(NameSurname))
+                    {
+                        NameSurname += ", ";
+                    }
+                    NameSurname += Surname;
+                }
+                return NameSurname;
             }
         }
     }
