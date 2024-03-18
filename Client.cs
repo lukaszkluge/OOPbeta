@@ -28,5 +28,18 @@ namespace ABC.BL
                 return NameSurname;
             }
         }
+
+        public bool Validate()
+        {
+            var correct = true;
+
+            if (string.IsNullOrEmpty(Surname))
+                correct = false;
+            if (string.IsNullOrEmpty(Email))
+                correct = false;
+
+            return correct;
+            
+        }
     }
 }
