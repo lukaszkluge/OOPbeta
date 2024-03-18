@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0",
+    "\\bin\\Release",
+    "\\TestResults\\Deploy_kluge 20240310T160642",
+    "\\TestResults\\Deploy_kluge 20240310T160642\\In",
+    "\\TestResults\\Deploy_kluge 20240310T160642\\In\\MITHRILBOOK",
+    "\\TestResults\\Deploy_kluge 20240310T160642\\Out"
   ],
+  "SelectedNode": "\\Client.cs",
   "PreviewInSolutionExplorer": false
 }
