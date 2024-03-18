@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4893B5BB-0A71-40AF-A42E-73FF69B0EC3B}|..\\ABC.BL.Test\\ABC.BL.Test.csproj|c:\\users\\kluge\\onedrive\\pulpit\\oop\\abc.bl.test\\clienttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA35E390-E380-4DB5-AFE3-8E528C1A198D}|ABC.BL.csproj|c:\\users\\kluge\\onedrive\\pulpit\\oop\\abc.bl\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA35E390-E380-4DB5-AFE3-8E528C1A198D}|ABC.BL.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,20 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Client.cs",
               "RelativeDocumentMoniker": "Client.cs",
               "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Client.cs",
               "RelativeToolTip": "Client.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA6wA4AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T18:31:32.751Z",
-              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientTest.cs",
+              "DocumentMoniker": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL.Test\\ClientTest.cs",
+              "RelativeDocumentMoniker": "..\\ABC.BL.Test\\ClientTest.cs",
+              "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL.Test\\ClientTest.cs*",
+              "RelativeToolTip": "..\\ABC.BL.Test\\ClientTest.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAAAcwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T06:56:07.679Z",
               "EditorCaption": ""
             }
           ]

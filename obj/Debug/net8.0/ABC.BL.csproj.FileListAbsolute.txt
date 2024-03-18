@@ -9,3 +9,4 @@ C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.dll
 C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\refint\ABC.BL.dll
 C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.pdb
 C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ref\ABC.BL.dll
+C:\Users\kluge\OneDrive\Pulpit\OOP\ABC.BL\obj\Debug\net8.0\ABC.BL.sourcelink.json
