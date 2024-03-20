@@ -30,14 +30,14 @@ namespace ABC.BL
             return new Product();
         }
 
-        //we save current product
+        //save current product
         public bool Save()
         {
             //code that saves defined product
             return true;
         }
 
-        //we check product data
+        //check product data
         public bool Validate()
         {
             var correct = true;
