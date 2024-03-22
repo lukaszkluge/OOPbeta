@@ -31,7 +31,7 @@
               "RelativeDocumentMoniker": "Client.cs",
               "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Client.cs",
               "RelativeToolTip": "Client.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAswAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T18:31:32.751Z",
               "IsPinned": true,
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswCcAAAAfAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wCcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T12:21:40.237Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "..\\ABC.BL.Test\\ClientTest.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAAAUwGIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T06:56:07.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T06:56:07.679Z"
             }
           ]
         }
