@@ -23,21 +23,21 @@ namespace ABC.BL
         public string? Description { get; set; }
         public string? ProductName { get; set; }
 
-        //get one product
+        // get one product
         public Product Get(int productID) 
         {
             //code that provides defined product
             return new Product();
         }
 
-        //save current product
+        // save current product
         public bool Save()
         {
             //code that saves defined product
             return true;
         }
 
-        //check product data
+        // check product data
         public bool Validate()
         {
             var correct = true;
