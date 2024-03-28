@@ -67,7 +67,7 @@ namespace ABC.BL
 
         public List<Client> GetClients() 
         {   
-            // get all the clients
+            // get all clients
             return new List<Client>();
         }
     }

@@ -33,7 +33,7 @@ namespace ABC.BL
         // save current product
         public bool Save()
         {
-            //code that saves defined product
+            // code that saves defined product
             return true;
         }
 
