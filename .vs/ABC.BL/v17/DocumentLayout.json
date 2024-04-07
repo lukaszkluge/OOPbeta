@@ -34,8 +34,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T18:31:32.751Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "..\\ABC.BL.Test\\ClientTest.cs",
               "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL.Test\\ClientTest.cs",
               "RelativeToolTip": "..\\ABC.BL.Test\\ClientTest.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAowGIAAAApAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T06:56:07.679Z",
               "EditorCaption": ""
