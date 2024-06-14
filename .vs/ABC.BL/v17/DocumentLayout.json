@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA35E390-E380-4DB5-AFE3-8E528C1A198D}|ABC.BL.csproj|c:\\users\\kluge\\onedrive\\pulpit\\oop\\abc.bl\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA35E390-E380-4DB5-AFE3-8E528C1A198D}|ABC.BL.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4893B5BB-0A71-40AF-A42E-73FF69B0EC3B}|..\\ABC.BL.Test\\ABC.BL.Test.csproj|c:\\users\\kluge\\onedrive\\pulpit\\oop\\abc.bl.test\\clienttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,11 +25,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Client.cs",
               "RelativeDocumentMoniker": "Client.cs",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Order.cs*",
+              "RelativeToolTip": "Order.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:17:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -50,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClientTest.cs",
               "DocumentMoniker": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL.Test\\ClientTest.cs",
               "RelativeDocumentMoniker": "..\\ABC.BL.Test\\ClientTest.cs",
               "ToolTip": "C:\\Users\\kluge\\OneDrive\\Pulpit\\OOP\\ABC.BL.Test\\ClientTest.cs",
               "RelativeToolTip": "..\\ABC.BL.Test\\ClientTest.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAowGIAAAAmAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowF4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T06:56:07.679Z",
               "EditorCaption": ""
