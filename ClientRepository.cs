@@ -11,6 +11,14 @@ public class ClientRepository
     //download new client
     public Client Get(int ClientID)
     {
+        // we create client class instance
+        Client client = new Client();
+
+        if (ClientID == 1)
+        {
+            client.Email = ""
+        }
+
         return new Client();
     }
 
